@@ -11,7 +11,7 @@ import React, { useState } from "react"
     return(
        <div>
             <h1>SRI CINEMA</h1>
-             <h3>Movie Name : {props.film}</h3>
+             <h3>Movie Name testing : {props.film}</h3>
              <h3>Booking ticket : {ticket}</h3>
              <button onClick={para} className="btn btn-info">BOOK NOW</button>
        </div>
