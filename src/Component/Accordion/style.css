@@ -1,0 +1,23 @@
+.container{
+    background-color:rgb(220, 240, 240);
+    margin: 100px auto;
+    margin-left: 100px;
+    width: 600px;
+}
+.pp{
+    width: 600px;
+    margin-bottom: 10px;
+    
+}
+.btn{
+    background-color: rgb(28, 143, 143);
+    color: white;
+
+}
+.title{
+    color:aliceblue;
+    padding: 5px;
+    background-color:rgb(28, 143, 143) ;
+
+
+}

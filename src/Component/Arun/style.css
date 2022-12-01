@@ -1,0 +1,55 @@
+.get{
+    background-color: bisque;
+}
+.container{
+    width: 100%;
+    height: auto;
+    padding-top: 25px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.round{
+    border-radius:50px;
+    bottom: 10px;
+    position: relative;
+}
+h1{
+    color: brown;
+    
+}
+.heading{
+    width: 100%;
+    height: auto;
+    padding-top: 25px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.heat{
+    height: 100vh; 
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+ }
+ .head{
+     background-color: rgb(230, 104, 230);
+ }
+ .tap{ 
+    top: 20%;
+    position: relative;
+     text-align: center; 
+     background-color: rgb(236, 243, 247);
+     max-width: 400px;
+     width: 100%;
+     box-shadow: 0 5px 10px rgba(0,0, 0,2);
+ }
+ .colr:hover{
+     background-color: rgb(207, 212, 211);
+ }
+ 
+ 
+ 
+ 
+

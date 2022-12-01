@@ -1,0 +1,38 @@
+ h1{
+    color: brown;
+    font-family: 'Times New Roman', Times, serif;
+}
+h2{
+    color: darkred;
+    font-style: oblique;
+}
+p{
+    color:blueviolet;
+}
+button{
+    background-color: black;
+    color: bisque;
+}
+.pp{
+    color: blue;
+} 
+
+
+/* filter css */
+
+.heading{
+    padding: 20px;
+    margin: 20px;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    border: 1px solid rosybrown;
+    background-color: blueviolet;
+    border-radius: 20px;
+
+}
+.hh{
+    color: red;
+}
+.container input:checked~.checkmark{
+    background-color: green;
+}
